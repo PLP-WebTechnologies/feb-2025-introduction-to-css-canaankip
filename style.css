@@ -1,0 +1,55 @@
+/* General body styling */
+body {
+  font-family: 'Verdana', sans-serif;
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+
+/* Class selector */
+.main-heading {
+  background-color: #007acc;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  margin-bottom: 0;
+}
+
+/* ID selector */
+#content {
+  background-color: white;
+  max-width: 700px;
+  margin: 30px auto;
+  padding: 25px;
+  border: 2px solid #ddd;
+  border-radius: 10px;
+}
+
+/* Another class selector */
+.description {
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+/* Image styling */
+.styled-image {
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+  border: 4px solid #007acc;
+  border-radius: 8px;
+  margin-top: 15px;
+}
+
+/* Footer styling */
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  margin-top: 40px;
+}
+
+
+  
